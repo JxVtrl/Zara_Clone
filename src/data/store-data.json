@@ -1,0 +1,62 @@
+{
+    "data": {
+        "female": {
+            "nav": [
+                {
+                    "id": 0,
+                    "name": "Atelier"
+                },
+                {
+                    "id": 1,
+                    "name": "New"
+                },
+                {
+                    "id": 2,
+                    "name": "Sapatos"
+                },
+                {
+                    "id": 3,
+                    "name": "Lingerie"
+                }
+            ]
+        },
+        "male": {
+            "nav": [
+                {
+                    "id": 0,
+                    "name": "New"
+                },
+                {
+                    "id": 1,
+                    "name": "Join Life"
+                }
+            ]
+
+        },
+        "kids": {
+            "nav": [
+                {
+                    "id": 0,
+                    "name": "Girl"
+                },
+                {
+                    "id": 1,
+                    "name": "Boy"
+                },
+                {
+                    "id": 2,
+                    "name": "Baby Girl"
+                },
+                {
+                    "id": 3,
+                    "name": "Mini"
+                },
+                {
+                    "id": 4,
+                    "name": "Join Life"
+                }
+
+            ]
+        }
+    }
+}
